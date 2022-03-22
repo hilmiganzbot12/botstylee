@@ -2,7 +2,7 @@ global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/KihEAYjKr04LI4uUrbiiip']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '62895368900456': { // put your number here
+  '18642108663': { // put your number here
     name: 'benniismael',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
@@ -10,7 +10,7 @@ global.Owner = {
   }
 }
 global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = ['18642108663'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -59,8 +59,8 @@ fs.watchFile(file, () => {
 const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
-  var sticker_name = 'Benniganteng \'ig : Beni_230'
-  var sticker_author = 'Benniismael'
+  var sticker_name = 'Black BotZ'
+  var sticker_author = 'Black BotZ Official'
 } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
