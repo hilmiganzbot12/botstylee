@@ -8,13 +8,18 @@
 <a href="https://github.com/botstylee/botstylee/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/BochilGaming/games-wabot?label=PullRequest&color=success&style=flat-square"></a>
 <a href="https://github.com/botstylee/botstylee/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/BochilGaming/games-wabot?label=PullRequest&color=red&style=flat-square"></a>
 
-## Cara Memakai Botstylee
+## Dukung BotStylee
 ['Donasi'] 
 Bank BRI:3653-01-031536-53-9
+
 Gopay:082143349069
+
 Dana:08213349069
+
 Ovo:082331236882
+
 Qris:https://topindo-warehouse.id:8081/ID2022154473583_A01.png
+
 ## Join Group Bot
 [`Group Whatsapp`](https://chat.whatsapp.com/KihEAYjKr04LI4uUrbiiip)
 ### FOR TERMUX USER
